@@ -21,18 +21,18 @@ This will not automatically run the installers, you can configure it to on your 
 
 # Check Out & Support These Awesome Softwares:
 
-[AutoHotKey](https://www.autohotkey.com/)
-[7zip](https://www.7-zip.org/)
-[Krita](https://krita.org/en/)
-[VLC](https://www.videolan.org/)
-[Blender](https://www.blender.org/)
-[GIMP](https://www.gimp.org/)
-[qBittorrent](https://www.qbittorrent.org/)
-[Keepass](https://keepass.info)
-[LibreOffice](https://www.libreoffice.org/)
-[FileZilla](https://filezilla-project.org/)
-[Notepad++](https://notepad-plus-plus.org)
-[Waterfox](https://www.waterfox.net/)
+[AutoHotKey](https://www.autohotkey.com/), 
+[7zip](https://www.7-zip.org/), 
+[Krita](https://krita.org/en/), 
+[VLC](https://www.videolan.org/), 
+[Blender](https://www.blender.org/), 
+[GIMP](https://www.gimp.org/), 
+[qBittorrent](https://www.qbittorrent.org/), 
+[Keepass](https://keepass.info), 
+[LibreOffice](https://www.libreoffice.org/), 
+[FileZilla](https://filezilla-project.org/), 
+[Notepad++](https://notepad-plus-plus.org), 
+[Waterfox](https://www.waterfox.net/), 
 
 
 

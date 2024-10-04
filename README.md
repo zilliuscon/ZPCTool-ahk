@@ -32,7 +32,7 @@ This will not automatically run the installers, you can configure it to on your 
 [LibreOffice](https://www.libreoffice.org/), 
 [FileZilla](https://filezilla-project.org/), 
 [Notepad++](https://notepad-plus-plus.org), 
-[Waterfox](https://www.waterfox.net/), 
+[Waterfox](https://www.waterfox.net/) 
 
 
 

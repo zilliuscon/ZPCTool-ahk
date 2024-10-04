@@ -1,1 +1,113 @@
+AutoHotKey is used as the main program for this project and is under the GNU General Public License v2.0
 
+to see more, please read: https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
+
+ZPCTool-ahk uses a collection of these software & licenses.
+
+Go give them the credit and support they deserve.
+
+
+---------------------------------------------------------------
+
+AutoHotKey
+
+  repo: https://github.com/AutoHotkey/AutoHotkey/tree/alpha
+  Website: https://www.autohotkey.com/
+  Licenses: https://github.com/AutoHotkey/AutoHotkey/blob/alpha/license.txt
+
+---------------------------------------------------------------
+
+Krita
+
+  repo: https://github.com/KDE/krita
+  Website: https://krita.org/en/
+  Licenses: https://github.com/KDE/krita/tree/master/LICENSES
+  Code of Conduct: https://www.kde.org/code-of-conduct/
+
+---------------------------------------------------------------
+
+7zip
+
+  repo: https://github.com/mcmilk/7-Zip
+  Website: https://www.7-zip.org/
+  Licenses: https://github.com/mcmilk/7-Zip/blob/master/COPYING
+
+---------------------------------------------------------------
+
+VLC
+  
+  repo: https://github.com/videolan/vlc
+  Website: https://www.videolan.org/
+  GNU GPL: https://github.com/videolan/vlc/blob/master/COPYING
+  GNU LGPL: https://github.com/videolan/vlc/blob/master/COPYING.LIB
+
+---------------------------------------------------------------
+
+Blender:
+  
+  repo: https://github.com/blender/blender
+  Website: https://www.blender.org/
+  license: https://github.com/blender/blender/blob/main/COPYING
+
+---------------------------------------------------------------
+
+GIMP:
+
+  repo: https://github.com/GNOME/gimp
+  Website: https://www.gimp.org/
+  License: https://github.com/GNOME/gimp/blob/master/LICENSE
+  GNU GPLv3: https://www.gnu.org/licenses/gpl-3.0.en.html
+
+---------------------------------------------------------------
+
+qBittorrent:
+
+  repo: https://github.com/qbittorrent/qBittorrent
+  Website: https://www.qbittorrent.org/
+  License: https://github.com/qbittorrent/qBittorrent/blob/master/COPYING
+  GNU GPLv2: https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
+  GNU GPLv3: https://www.gnu.org/licenses/gpl-3.0.html
+
+---------------------------------------------------------------
+
+Keepass: 
+
+  repo: https://sourceforge.net/projects/keepass/
+  Website: https://keepass.info/
+  License: https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
+
+---------------------------------------------------------------
+
+LibreOffice:
+
+  repo: https://github.com/LibreOffice/core
+  Website: https://www.libreoffice.org/ 
+  GNU GPLv2: https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
+  GNU GPLv3: https://www.gnu.org/licenses/gpl-3.0.html
+  MPLv2: https://www.mozilla.org/en-US/MPL/2.0/
+
+---------------------------------------------------------------
+
+FileZilla:
+
+  repo: https://github.com/basvodde/filezilla
+  Website: https://filezilla-project.org/
+  GNU GPLv2: https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
+
+---------------------------------------------------------------
+
+Notepad++:
+
+  repo: https://github.com/notepad-plus-plus/notepad-plus-plus
+  Website: https://notepad-plus-plus.org/
+  License: https://github.com/notepad-plus-plus/notepad-plus-plus/blob/master/LICENSE
+
+---------------------------------------------------------------
+
+Waterfox:
+
+  repo: https://github.com/BrowserWorks/Waterfox
+  Website: https://www.waterfox.net/
+  License: https://www.mozilla.org/en-US/MPL/2.0/
+
+---------------------------------------------------------------

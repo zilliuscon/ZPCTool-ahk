@@ -16,8 +16,6 @@ if you'd like to support, going through itch.io or ko-fi is greatly appreciated.
 
 **Browser.ahk** - changeably to whichever browser you prefer to use, just edit the download link. Default to ***Waterfox***.
 
-***personal-install.ahk*** - if you feel you'd like to add extra apps yourself, you can use this script file as your base. go ahead and copy any download links you like! Includes **chocolatey** install script. 
-
 ***Zellie-Config.ahk*** - my personal public version of my auto installer. ***(includes all of the above)***
 
 

@@ -19,7 +19,7 @@ This will not automatically run the installers, you can configure it to on your 
 
 ***Zellie-Config.ahk*** - my personal public version of my auto installer. ***(includes all of the above)***
 
-# Check Out & Support These Awesome Softwares:
+# Check out & support these awesome softwares:
 
 [AutoHotKey](https://www.autohotkey.com/), 
 [7zip](https://www.7-zip.org/), 
